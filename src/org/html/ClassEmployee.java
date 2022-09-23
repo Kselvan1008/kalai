@@ -15,6 +15,7 @@ public class ClassEmployee {
 		for (String String:readLines)
 		{
 			System.out.println(String);
+			System.out.println(String);
 		}
 	}
 	
